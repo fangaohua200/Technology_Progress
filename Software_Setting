@@ -1,0 +1,6 @@
+【rabbitmq】
+    spring.rabbitmq.addresses=10.122.44.127:5672
+  管理界面：
+    10.122.44.127:15672
+    spring.rabbitmq.username=guest
+    spring.rabbitmq.password=guest
